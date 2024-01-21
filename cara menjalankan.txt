@@ -1,0 +1,29 @@
+installasi
+- xampp PHP 7.4.26 
+- Laravel 
+- ketik "composer update"
+- ketik "php artisan serve"
+
+URL Aplikasi
+http://127.0.0.1:8000
+
+Terdapat beberapa hak akses:
+- user (Siswa, Panitia, Admin)
+- pengguna (Dashboard)
+
+URL setiap hak akses
+- pengguna  (http://127.0.0.1:8000/)
+    Melihat informasi :
+    - Home
+    - Jurusan
+    - Galeri
+    - Kontak
+    - Tentang Kami (Abaout)
+     
+- Siswa     (http://127.0.0.1:8000/siswa/profil)
+    
+- Admin     (http://127.0.0.1:8000/admin)
+- Panitia   (http://127.0.0.1:8000/panitia)
+
+
+
